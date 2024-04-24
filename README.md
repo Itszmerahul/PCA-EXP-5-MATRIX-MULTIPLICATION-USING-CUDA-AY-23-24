@@ -201,16 +201,16 @@ int main()
 !nvprof ./matmul
 
 !nvprof --print-gpu-trace ./matmul
-```c
+
+
+```
 
 
 ## OUTPUT:
-![Screenshot 2024-04-24 085236](https://github.com/Itszmerahul/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/1f93ceb3-54d8-4b56-a46c-7f6597956b3b)
-![Screenshot 2024-04-24 085156](https://github.com/Itszmerahul/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/2564e5e9-fca7-4f89-b8bc-86e6fd742070)
-![Screenshot 2024-04-24 085106](https://github.com/Itszmerahul/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/2d6d581e-0847-4527-ba7d-5bbbc5b96215)
 
-
-
+![Screenshot 2024-04-24 085236](https://github.com/Rahul22007896/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/53604948-716b-4282-9c35-67055c15be7c)
+![Screenshot 2024-04-24 085156](https://github.com/Rahul22007896/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/bf629e0c-14d4-499e-8e06-8231dcb1c19c)
+![Screenshot 2024-04-24 085106](https://github.com/Rahul22007896/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/121565560/cc64c0b9-3033-4d1b-8946-49a03535acc8)
 
 
 
